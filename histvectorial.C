@@ -1,6 +1,7 @@
 /*
 - Implement an histogram vector
 - Choose bins wisely
+- Practice with Github
 */
 
 void histvectorial() {
